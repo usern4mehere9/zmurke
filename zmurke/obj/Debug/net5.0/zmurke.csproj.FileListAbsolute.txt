@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\zmurke\zmurke\bin\Debug\net5.0\zmurke.exe
+C:\Users\Nikola\source\repos\zmurke\zmurke\bin\Debug\net5.0\zmurke.deps.json
+C:\Users\Nikola\source\repos\zmurke\zmurke\bin\Debug\net5.0\zmurke.runtimeconfig.json
+C:\Users\Nikola\source\repos\zmurke\zmurke\bin\Debug\net5.0\zmurke.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\zmurke\zmurke\bin\Debug\net5.0\zmurke.dll
+C:\Users\Nikola\source\repos\zmurke\zmurke\bin\Debug\net5.0\ref\zmurke.dll
+C:\Users\Nikola\source\repos\zmurke\zmurke\bin\Debug\net5.0\zmurke.pdb
+C:\Users\Nikola\source\repos\zmurke\zmurke\obj\Debug\net5.0\zmurke.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\zmurke\zmurke\obj\Debug\net5.0\zmurke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\zmurke\zmurke\obj\Debug\net5.0\zmurke.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\zmurke\zmurke\obj\Debug\net5.0\zmurke.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\zmurke\zmurke\obj\Debug\net5.0\zmurke.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\zmurke\zmurke\obj\Debug\net5.0\zmurke.dll
+C:\Users\Nikola\source\repos\zmurke\zmurke\obj\Debug\net5.0\ref\zmurke.dll
+C:\Users\Nikola\source\repos\zmurke\zmurke\obj\Debug\net5.0\zmurke.pdb
+C:\Users\Nikola\source\repos\zmurke\zmurke\obj\Debug\net5.0\zmurke.genruntimeconfig.cache
